@@ -5,6 +5,7 @@
       "bundler": "metro"
     },
     "name": "job-app",
-    "slug": "job-app"
+    "slug": "job-app",
+    "description": ""
   }
 }
